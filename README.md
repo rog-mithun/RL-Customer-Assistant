@@ -82,7 +82,7 @@ A Reinforcement Learning-based chatbot built using Deep Q-Network (DQN), capable
 - [Reward Graph](logs/multiturn_rewards.png)
 
 ### 🎥 Model Output or Voice Demo
-[▶️ Play Demo Output](media/RL Chatbot - Google Chrome 2025-04-12 20-17-05.mp4)
+[▶️ Play Demo Output](media/demo_video.mp4)
 
 ---
 
