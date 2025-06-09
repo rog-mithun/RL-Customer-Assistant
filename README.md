@@ -70,7 +70,7 @@ A Reinforcement Learning-based chatbot built using Deep Q-Network (DQN), capable
 
 3. **Run the Streamlit App:**
    ```bash
-   streamlit run ui/multi_turn_UI.py
+   streamlit run ui/multiturn_chat.py
 
 ---
 
