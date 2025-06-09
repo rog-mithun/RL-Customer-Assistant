@@ -61,8 +61,8 @@ A Reinforcement Learning-based chatbot built using Deep Q-Network (DQN), capable
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/rog-mithun/rl-chatbot-assistant.git
-   cd rl-chatbot-assistant
+   git clone https://github.com/rog-mithun/RL-Customer-Assistant.git
+   cd RL-Customer-Assistant
 
 2. **Install Dependencies:**
    ```bash
