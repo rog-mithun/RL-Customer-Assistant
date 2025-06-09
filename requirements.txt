@@ -1,0 +1,14 @@
+torch
+gym
+transformers
+nltk
+spacy
+flask
+streamlit
+pandas
+numpy
+matplotlib
+pyttsx3
+SpeechRecognition
+pyaudio 
+fpdf

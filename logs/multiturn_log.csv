@@ -1,0 +1,1423 @@
+Episode,Turn,User Query,Bot Response,Expected Response,Reward,Done
+1,1,how to reset password?,"Our business hours are 9 AM to 5 PM, Monday to Friday.",You can reset your password using the link we sent to your email.,-1,False
+1,2,what's up?,"Sure, I can help you cancel your order.","I'm just a bot, but I’m here to help you!",-1,False
+1,3,order not arrived,You can reset your password using the link we sent to your email.,I'm sorry to hear that. Let me check the tracking info for you.,-1,True
+2,1,sup bot,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,False
+2,2,hello,"I'm just a bot, but I’m here to help you!",Hello! How can I help you today?,-1,False
+2,3,see you,"Sorry, I didn’t quite get that. Could you please rephrase?",You're welcome! Have a great day!,-1,True
+3,1,hey,"Yes, we offer a 30-day refund policy for eligible returns.",Hello! How can I help you today?,-1,False
+3,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+3,3,what's your refund policy?,I'm sorry to hear that. Let me check the tracking info for you.,"Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+4,1,forgot my password,"I'm just a bot, but I’m here to help you!",You can reset your password using the link we sent to your email.,-1,False
+4,2,hi,You're welcome! Have a great day!,Hello! How can I help you today?,-1,False
+4,3,yo!,"Our business hours are 9 AM to 5 PM, Monday to Friday.","I'm just a bot, but I’m here to help you!",-1,True
+5,1,order is delayed,Hello! How can I help you today?,I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+5,2,stop my purchase,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sure, I can help you cancel your order.",-1,False
+5,3,thank you,"Sorry, I didn’t quite get that. Could you please rephrase?",You're welcome! Have a great day!,-1,True
+6,1,what's your refund policy?,"Sure, I can help you cancel your order.","Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+6,2,sup bot,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,False
+6,3,hi,"Sure, I can help you cancel your order.",Hello! How can I help you today?,-1,True
+7,1,play music,You can reset your password using the link we sent to your email.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+7,2,business hours?,I'm sorry to hear that. Let me check the tracking info for you.,"Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+7,3,when are you open?,"I'm just a bot, but I’m here to help you!","Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,True
+8,1,return an item,I'm sorry to hear that. Let me check the tracking info for you.,"Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+8,2,hey,"Yes, we offer a 30-day refund policy for eligible returns.",Hello! How can I help you today?,-1,False
+8,3,how to cancel order,I'm sorry to hear that. Let me check the tracking info for you.,"Sure, I can help you cancel your order.",-1,True
+9,1,business hours?,"Yes, we offer a 30-day refund policy for eligible returns.","Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+9,2,stop my purchase,I'm sorry to hear that. Let me check the tracking info for you.,"Sure, I can help you cancel your order.",-1,False
+9,3,business hours?,"Sorry, I didn’t quite get that. Could you please rephrase?","Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,True
+10,1,what's 2+2,"Yes, we offer a 30-day refund policy for eligible returns.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+10,2,return an item,"Sure, I can help you cancel your order.","Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+10,3,how to reset password?,"Sure, I can help you cancel your order.",You can reset your password using the link we sent to your email.,-1,True
+11,1,see you,"Our business hours are 9 AM to 5 PM, Monday to Friday.",You're welcome! Have a great day!,-1,False
+11,2,what's 2+2,You're welcome! Have a great day!,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+11,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+12,1,see you,"I'm just a bot, but I’m here to help you!",You're welcome! Have a great day!,-1,False
+12,2,what's up?,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+12,3,hey,"Our business hours are 9 AM to 5 PM, Monday to Friday.",Hello! How can I help you today?,-1,True
+13,1,hello,"Sorry, I didn’t quite get that. Could you please rephrase?",Hello! How can I help you today?,-1,False
+13,2,forgot my password,Hello! How can I help you today?,You can reset your password using the link we sent to your email.,-1,False
+13,3,how to cancel order,"Sorry, I didn’t quite get that. Could you please rephrase?","Sure, I can help you cancel your order.",-1,True
+14,1,how to cancel order,"Sorry, I didn’t quite get that. Could you please rephrase?","Sure, I can help you cancel your order.",-1,False
+14,2,hi,"Yes, we offer a 30-day refund policy for eligible returns.",Hello! How can I help you today?,-1,False
+14,3,hey,"I'm just a bot, but I’m here to help you!",Hello! How can I help you today?,-1,True
+15,1,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+15,2,hi,"Sure, I can help you cancel your order.",Hello! How can I help you today?,-1,False
+15,3,hey,You're welcome! Have a great day!,Hello! How can I help you today?,-1,True
+16,1,hi,You can reset your password using the link we sent to your email.,Hello! How can I help you today?,-1,False
+16,2,good morning,"Sure, I can help you cancel your order.",Hello! How can I help you today?,-1,False
+16,3,forgot my password,"Sorry, I didn’t quite get that. Could you please rephrase?",You can reset your password using the link we sent to your email.,-1,True
+17,1,where is my order?,You're welcome! Have a great day!,I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+17,2,sup bot,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+17,3,what's your refund policy?,I'm sorry to hear that. Let me check the tracking info for you.,"Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+18,1,how to reset password?,"Our business hours are 9 AM to 5 PM, Monday to Friday.",You can reset your password using the link we sent to your email.,-1,False
+18,2,hello,"Sorry, I didn’t quite get that. Could you please rephrase?",Hello! How can I help you today?,-1,False
+18,3,order not arrived,"Our business hours are 9 AM to 5 PM, Monday to Friday.",I'm sorry to hear that. Let me check the tracking info for you.,-1,True
+19,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+19,2,forgot my password,"Sorry, I didn’t quite get that. Could you please rephrase?",You can reset your password using the link we sent to your email.,-1,False
+19,3,bye,I'm sorry to hear that. Let me check the tracking info for you.,You're welcome! Have a great day!,-1,True
+20,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+20,2,when are you open?,"I'm just a bot, but I’m here to help you!","Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+20,3,hi,"Our business hours are 9 AM to 5 PM, Monday to Friday.",Hello! How can I help you today?,-1,True
+21,1,when are you open?,"Yes, we offer a 30-day refund policy for eligible returns.","Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+21,2,can I get a refund?,I'm sorry to hear that. Let me check the tracking info for you.,"Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+21,3,business hours?,I'm sorry to hear that. Let me check the tracking info for you.,"Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,True
+22,1,what's up?,You're welcome! Have a great day!,"I'm just a bot, but I’m here to help you!",-1,False
+22,2,sup bot,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,False
+22,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+23,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+23,2,return an item,Hello! How can I help you today?,"Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+23,3,cancel my order,"I'm just a bot, but I’m here to help you!","Sure, I can help you cancel your order.",-1,True
+24,1,what's 2+2,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+24,2,good morning,You can reset your password using the link we sent to your email.,Hello! How can I help you today?,-1,False
+24,3,hey,"I'm just a bot, but I’m here to help you!",Hello! How can I help you today?,-1,True
+25,1,play music,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+25,2,return an item,"Sorry, I didn’t quite get that. Could you please rephrase?","Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+25,3,see you,"Sure, I can help you cancel your order.",You're welcome! Have a great day!,-1,True
+26,1,when are you open?,You can reset your password using the link we sent to your email.,"Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+26,2,can I get a refund?,You can reset your password using the link we sent to your email.,"Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+26,3,return an item,"I'm just a bot, but I’m here to help you!","Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+27,1,where is my order?,You can reset your password using the link we sent to your email.,I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+27,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+28,1,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+28,2,what's your refund policy?,"Sorry, I didn’t quite get that. Could you please rephrase?","Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+28,3,can I get a refund?,"I'm just a bot, but I’m here to help you!","Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+29,1,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+29,2,business hours?,"Sure, I can help you cancel your order.","Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+29,3,hey,"I'm just a bot, but I’m here to help you!",Hello! How can I help you today?,-1,True
+30,1,what's 2+2,You're welcome! Have a great day!,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+30,2,hey,"Sure, I can help you cancel your order.",Hello! How can I help you today?,-1,False
+30,3,hello,"I'm just a bot, but I’m here to help you!",Hello! How can I help you today?,-1,True
+31,1,forgot my password,I'm sorry to hear that. Let me check the tracking info for you.,You can reset your password using the link we sent to your email.,-1,False
+31,2,how are you?,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+31,3,order is delayed,"Sure, I can help you cancel your order.",I'm sorry to hear that. Let me check the tracking info for you.,-1,True
+32,1,see you,Hello! How can I help you today?,You're welcome! Have a great day!,-1,False
+32,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+32,3,how are you?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","I'm just a bot, but I’m here to help you!",-1,True
+33,1,what's 2+2,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+33,2,order not arrived,"Our business hours are 9 AM to 5 PM, Monday to Friday.",I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+33,3,how to cancel order,You can reset your password using the link we sent to your email.,"Sure, I can help you cancel your order.",-1,True
+34,1,order is delayed,"I'm just a bot, but I’m here to help you!",I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+34,2,bye,"Yes, we offer a 30-day refund policy for eligible returns.",You're welcome! Have a great day!,-1,False
+34,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+35,1,yo!,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+35,2,hello,"Sorry, I didn’t quite get that. Could you please rephrase?",Hello! How can I help you today?,-1,False
+35,3,business hours?,You can reset your password using the link we sent to your email.,"Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,True
+36,1,can I get a refund?,"Sorry, I didn’t quite get that. Could you please rephrase?","Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+36,2,how to reset password?,"I'm just a bot, but I’m here to help you!",You can reset your password using the link we sent to your email.,-1,False
+36,3,return an item,You can reset your password using the link we sent to your email.,"Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+37,1,where is my order?,"Sure, I can help you cancel your order.",I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+37,2,cancel my order,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sure, I can help you cancel your order.",-1,False
+37,3,order not arrived,You're welcome! Have a great day!,I'm sorry to hear that. Let me check the tracking info for you.,-1,True
+38,1,cancel my order,"I'm just a bot, but I’m here to help you!","Sure, I can help you cancel your order.",-1,False
+38,2,see you,Hello! How can I help you today?,You're welcome! Have a great day!,-1,False
+38,3,how to cancel order,I'm sorry to hear that. Let me check the tracking info for you.,"Sure, I can help you cancel your order.",-1,True
+39,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+39,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+39,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+40,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+40,2,when are you open?,"I'm just a bot, but I’m here to help you!","Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+40,3,see you,I'm sorry to hear that. Let me check the tracking info for you.,You're welcome! Have a great day!,-1,True
+41,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+41,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+42,1,cancel my order,"I'm just a bot, but I’m here to help you!","Sure, I can help you cancel your order.",-1,False
+42,2,hey,"Our business hours are 9 AM to 5 PM, Monday to Friday.",Hello! How can I help you today?,-1,False
+42,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+43,1,yo!,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,False
+43,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+43,3,where is my order?,"Our business hours are 9 AM to 5 PM, Monday to Friday.",I'm sorry to hear that. Let me check the tracking info for you.,-1,True
+44,1,where is my order?,"I'm just a bot, but I’m here to help you!",I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+44,2,what's 2+2,Hello! How can I help you today?,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+44,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+45,1,yo!,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+45,2,how are you?,You can reset your password using the link we sent to your email.,"I'm just a bot, but I’m here to help you!",-1,False
+45,3,business hours?,You can reset your password using the link we sent to your email.,"Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,True
+46,1,can I get a refund?,"Sorry, I didn’t quite get that. Could you please rephrase?","Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+46,2,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+46,3,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+47,1,order is delayed,"I'm just a bot, but I’m here to help you!",I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+47,2,see you,"Sure, I can help you cancel your order.",You're welcome! Have a great day!,-1,False
+47,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+48,1,play music,You can reset your password using the link we sent to your email.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+48,2,stop my purchase,You can reset your password using the link we sent to your email.,"Sure, I can help you cancel your order.",-1,False
+48,3,what's 2+2,"Yes, we offer a 30-day refund policy for eligible returns.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+49,1,thanks,"I'm just a bot, but I’m here to help you!",You're welcome! Have a great day!,-1,True
+50,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+50,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+50,3,see you,"Sure, I can help you cancel your order.",You're welcome! Have a great day!,-1,True
+51,1,what's your refund policy?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+51,2,see you,You can reset your password using the link we sent to your email.,You're welcome! Have a great day!,-1,False
+51,3,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+52,1,return an item,You're welcome! Have a great day!,"Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+52,2,hey,You're welcome! Have a great day!,Hello! How can I help you today?,-1,False
+52,3,what's 2+2,Hello! How can I help you today?,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+53,1,see you,"I'm just a bot, but I’m here to help you!",You're welcome! Have a great day!,-1,False
+53,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+53,3,what's up?,You can reset your password using the link we sent to your email.,"I'm just a bot, but I’m here to help you!",-1,True
+54,1,thanks,"Sure, I can help you cancel your order.",You're welcome! Have a great day!,-1,True
+55,1,bye,Hello! How can I help you today?,You're welcome! Have a great day!,-1,False
+55,2,what's your refund policy?,"Sure, I can help you cancel your order.","Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+55,3,hi darling,You can reset your password using the link we sent to your email.,"I'm just a bot, but I’m here to help you!",-1,True
+56,1,what's your refund policy?,"Sorry, I didn’t quite get that. Could you please rephrase?","Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+56,2,how to cancel order,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sure, I can help you cancel your order.",-1,False
+56,3,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+57,1,do you love me?,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+57,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+57,3,yo!,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,True
+58,1,hey,"Our business hours are 9 AM to 5 PM, Monday to Friday.",Hello! How can I help you today?,-1,False
+58,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+58,3,stop my purchase,"Yes, we offer a 30-day refund policy for eligible returns.","Sure, I can help you cancel your order.",-1,True
+59,1,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+59,2,hi,"I'm just a bot, but I’m here to help you!",Hello! How can I help you today?,-1,False
+59,3,what's up?,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,True
+60,1,hi darling,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,False
+60,2,yo!,"Our business hours are 9 AM to 5 PM, Monday to Friday.","I'm just a bot, but I’m here to help you!",-1,False
+60,3,bye,You can reset your password using the link we sent to your email.,You're welcome! Have a great day!,-1,True
+61,1,hey,"I'm just a bot, but I’m here to help you!",Hello! How can I help you today?,-1,False
+61,2,forgot my password,Hello! How can I help you today?,You can reset your password using the link we sent to your email.,-1,False
+61,3,what's up?,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,True
+62,1,what's 2+2,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+62,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+62,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+63,1,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+63,2,what's your refund policy?,"Sure, I can help you cancel your order.","Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+63,3,stop my purchase,"Sorry, I didn’t quite get that. Could you please rephrase?","Sure, I can help you cancel your order.",-1,True
+64,1,do you love me?,"Sure, I can help you cancel your order.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+64,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+64,3,do you love me?,"Yes, we offer a 30-day refund policy for eligible returns.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+65,1,thanks,You can reset your password using the link we sent to your email.,You're welcome! Have a great day!,-1,True
+66,1,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+66,2,play music,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+66,3,how to cancel order,Hello! How can I help you today?,"Sure, I can help you cancel your order.",-1,True
+67,1,bye,You can reset your password using the link we sent to your email.,You're welcome! Have a great day!,-1,False
+67,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+67,3,what's up?,"Sure, I can help you cancel your order.","I'm just a bot, but I’m here to help you!",-1,True
+68,1,how are you?,You can reset your password using the link we sent to your email.,"I'm just a bot, but I’m here to help you!",-1,False
+68,2,hey,"Sorry, I didn’t quite get that. Could you please rephrase?",Hello! How can I help you today?,-1,False
+68,3,business hours?,"Sure, I can help you cancel your order.","Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,True
+69,1,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+69,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+69,3,bye,"Our business hours are 9 AM to 5 PM, Monday to Friday.",You're welcome! Have a great day!,-1,True
+70,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+70,2,how to cancel order,"Yes, we offer a 30-day refund policy for eligible returns.","Sure, I can help you cancel your order.",-1,False
+70,3,what's your refund policy?,"Sure, I can help you cancel your order.","Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+71,1,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+71,2,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+71,3,how are you?,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,True
+72,1,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+72,2,when are you open?,Hello! How can I help you today?,"Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+72,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+73,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+74,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+74,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+75,1,where is my order?,You're welcome! Have a great day!,I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+75,2,what's 2+2,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+75,3,sup bot,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,True
+76,1,hi darling,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+76,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+76,3,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+77,1,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+77,2,cancel my order,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sure, I can help you cancel your order.",-1,False
+77,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+78,1,do you love me?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+78,2,what's up?,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+78,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+79,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+80,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+80,2,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+80,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+81,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+82,1,can I get a refund?,"Sorry, I didn’t quite get that. Could you please rephrase?","Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+82,2,how to cancel order,You can reset your password using the link we sent to your email.,"Sure, I can help you cancel your order.",-1,False
+82,3,how to reset password?,"Our business hours are 9 AM to 5 PM, Monday to Friday.",You can reset your password using the link we sent to your email.,-1,True
+83,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+83,2,what's up?,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+83,3,order is delayed,"Our business hours are 9 AM to 5 PM, Monday to Friday.",I'm sorry to hear that. Let me check the tracking info for you.,-1,True
+84,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+84,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+84,3,bye,Hello! How can I help you today?,You're welcome! Have a great day!,-1,True
+85,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+85,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+86,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+86,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+86,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+87,1,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+87,2,hello,"Our business hours are 9 AM to 5 PM, Monday to Friday.",Hello! How can I help you today?,-1,False
+87,3,where is my order?,"I'm just a bot, but I’m here to help you!",I'm sorry to hear that. Let me check the tracking info for you.,-1,True
+88,1,hello,You're welcome! Have a great day!,Hello! How can I help you today?,-1,False
+88,2,order not arrived,"I'm just a bot, but I’m here to help you!",I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+88,3,stop my purchase,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sure, I can help you cancel your order.",-1,True
+89,1,what's 2+2,You're welcome! Have a great day!,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+89,2,business hours?,I'm sorry to hear that. Let me check the tracking info for you.,"Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+89,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+90,1,bye,You can reset your password using the link we sent to your email.,You're welcome! Have a great day!,-1,False
+90,2,cancel my order,You're welcome! Have a great day!,"Sure, I can help you cancel your order.",-1,False
+90,3,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,True
+91,1,hi darling,"Sorry, I didn’t quite get that. Could you please rephrase?","I'm just a bot, but I’m here to help you!",-1,False
+91,2,play music,You can reset your password using the link we sent to your email.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+91,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+92,1,how to cancel order,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sure, I can help you cancel your order.",-1,False
+92,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+92,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+93,1,how to cancel order,You can reset your password using the link we sent to your email.,"Sure, I can help you cancel your order.",-1,False
+93,2,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+93,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+94,1,how to cancel order,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sure, I can help you cancel your order.",-1,False
+94,2,thank you,Hello! How can I help you today?,You're welcome! Have a great day!,-1,False
+94,3,bye,"Yes, we offer a 30-day refund policy for eligible returns.",You're welcome! Have a great day!,-1,True
+95,1,bye,"Yes, we offer a 30-day refund policy for eligible returns.",You're welcome! Have a great day!,-1,False
+95,2,how to cancel order,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sure, I can help you cancel your order.",-1,False
+95,3,order not arrived,"Sorry, I didn’t quite get that. Could you please rephrase?",I'm sorry to hear that. Let me check the tracking info for you.,-1,True
+96,1,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+96,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+96,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+97,1,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+97,2,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+97,3,stop my purchase,I'm sorry to hear that. Let me check the tracking info for you.,"Sure, I can help you cancel your order.",-1,True
+98,1,where is my order?,You're welcome! Have a great day!,I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+98,2,stop my purchase,"I'm just a bot, but I’m here to help you!","Sure, I can help you cancel your order.",-1,False
+98,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+99,1,see you,You can reset your password using the link we sent to your email.,You're welcome! Have a great day!,-1,False
+99,2,where is my order?,"Our business hours are 9 AM to 5 PM, Monday to Friday.",I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+99,3,order is delayed,"I'm just a bot, but I’m here to help you!",I'm sorry to hear that. Let me check the tracking info for you.,-1,True
+100,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+101,1,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+101,2,sup bot,You're welcome! Have a great day!,"I'm just a bot, but I’m here to help you!",-1,False
+101,3,order is delayed,"I'm just a bot, but I’m here to help you!",I'm sorry to hear that. Let me check the tracking info for you.,-1,True
+102,1,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+102,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+102,3,thanks,"Our business hours are 9 AM to 5 PM, Monday to Friday.",You're welcome! Have a great day!,-1,True
+103,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+103,2,how to cancel order,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sure, I can help you cancel your order.",-1,False
+103,3,bye,"I'm just a bot, but I’m here to help you!",You're welcome! Have a great day!,-1,True
+104,1,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+104,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+104,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+105,1,order is delayed,You're welcome! Have a great day!,I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+105,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+105,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+106,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+106,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+106,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+107,1,hello,"Yes, we offer a 30-day refund policy for eligible returns.",Hello! How can I help you today?,-1,False
+107,2,business hours?,"Sure, I can help you cancel your order.","Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+107,3,how are you?,"Sure, I can help you cancel your order.","I'm just a bot, but I’m here to help you!",-1,True
+108,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+108,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+109,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+109,2,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+109,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+110,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+110,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+110,3,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+111,1,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+111,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+111,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+112,1,sup bot,You're welcome! Have a great day!,"I'm just a bot, but I’m here to help you!",-1,False
+112,2,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+112,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+113,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+114,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+114,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+114,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+115,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+116,1,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+116,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+116,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+117,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+117,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+118,1,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+118,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+118,3,play music,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+119,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+119,2,what's 2+2,"Sure, I can help you cancel your order.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+119,3,return an item,"Sure, I can help you cancel your order.","Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+120,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+120,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+120,3,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+121,1,order not arrived,You're welcome! Have a great day!,I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+121,2,how to cancel order,"Yes, we offer a 30-day refund policy for eligible returns.","Sure, I can help you cancel your order.",-1,False
+121,3,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+122,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+122,2,how to cancel order,You can reset your password using the link we sent to your email.,"Sure, I can help you cancel your order.",-1,False
+122,3,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+123,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+123,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+123,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+124,1,thank you,"Our business hours are 9 AM to 5 PM, Monday to Friday.",You're welcome! Have a great day!,-1,False
+124,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+124,3,hi darling,"Sure, I can help you cancel your order.","I'm just a bot, but I’m here to help you!",-1,True
+125,1,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+125,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+125,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+126,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+126,2,cancel my order,You're welcome! Have a great day!,"Sure, I can help you cancel your order.",-1,False
+126,3,what's 2+2,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+127,1,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+127,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+127,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+128,1,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+128,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+128,3,what's 2+2,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+129,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+130,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+130,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+130,3,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+131,1,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+131,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+131,3,how to reset password?,"Our business hours are 9 AM to 5 PM, Monday to Friday.",You can reset your password using the link we sent to your email.,-1,True
+132,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+132,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+132,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+133,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+133,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+133,3,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,True
+134,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+134,2,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+134,3,thank you,"Sure, I can help you cancel your order.",You're welcome! Have a great day!,-1,True
+135,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+135,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+135,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+136,1,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+136,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+136,3,can I get a refund?,"Sure, I can help you cancel your order.","Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+137,1,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+137,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+137,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+138,1,do you love me?,Hello! How can I help you today?,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+138,2,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+138,3,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+139,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+139,2,what's 2+2,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+139,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+140,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+141,1,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+141,2,do you love me?,"Sure, I can help you cancel your order.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+141,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+142,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+142,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+142,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+143,1,hey,"Yes, we offer a 30-day refund policy for eligible returns.",Hello! How can I help you today?,-1,False
+143,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+143,3,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+144,1,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+144,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+144,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+145,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+145,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+145,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+146,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+146,2,where is my order?,"Sorry, I didn’t quite get that. Could you please rephrase?",I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+146,3,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+147,1,where is my order?,You can reset your password using the link we sent to your email.,I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+147,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+147,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+148,1,what's 2+2,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+148,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+148,3,do you love me?,"Sure, I can help you cancel your order.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+149,1,hi darling,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,False
+149,2,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+149,3,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+150,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+150,2,hi darling,"Our business hours are 9 AM to 5 PM, Monday to Friday.","I'm just a bot, but I’m here to help you!",-1,False
+150,3,can I get a refund?,"Sorry, I didn’t quite get that. Could you please rephrase?","Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+151,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+151,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+151,3,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+152,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+152,2,do you love me?,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+152,3,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+153,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+153,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+153,3,good morning,"Our business hours are 9 AM to 5 PM, Monday to Friday.",Hello! How can I help you today?,-1,True
+154,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+154,2,how are you?,You can reset your password using the link we sent to your email.,"I'm just a bot, but I’m here to help you!",-1,False
+154,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+155,1,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+155,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+155,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+156,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+156,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+156,3,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+157,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+157,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+157,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+158,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+158,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+158,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+159,1,thanks,I'm sorry to hear that. Let me check the tracking info for you.,You're welcome! Have a great day!,-1,True
+160,1,what's 2+2,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+160,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+160,3,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+161,1,what's 2+2,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+161,2,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+161,3,hi darling,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,True
+162,1,what's 2+2,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+162,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+162,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+163,1,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+163,2,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+163,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+164,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+164,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+164,3,do you love me?,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+165,1,stop my purchase,You can reset your password using the link we sent to your email.,"Sure, I can help you cancel your order.",-1,False
+165,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+165,3,hi darling,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,True
+166,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+166,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+167,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+167,2,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+167,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+168,1,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+168,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+168,3,what's 2+2,"Sure, I can help you cancel your order.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+169,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+169,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+169,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+170,1,bye,Hello! How can I help you today?,You're welcome! Have a great day!,-1,False
+170,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+170,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+171,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+171,2,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+171,3,hi,I'm sorry to hear that. Let me check the tracking info for you.,Hello! How can I help you today?,-1,True
+172,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+172,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+172,3,do you love me?,You're welcome! Have a great day!,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+173,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+173,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+173,3,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+174,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+174,2,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+174,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+175,1,hey,You're welcome! Have a great day!,Hello! How can I help you today?,-1,False
+175,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+176,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+176,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+176,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+177,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+177,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+177,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+178,1,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+178,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+178,3,hi darling,You're welcome! Have a great day!,"I'm just a bot, but I’m here to help you!",-1,True
+179,1,do you love me?,Hello! How can I help you today?,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+179,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+179,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+180,1,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+180,2,hi darling,You're welcome! Have a great day!,"I'm just a bot, but I’m here to help you!",-1,False
+180,3,what's 2+2,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+181,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+182,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+182,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+182,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+183,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+183,2,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+183,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+184,1,what's 2+2,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+184,2,do you love me?,Hello! How can I help you today?,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+184,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+185,1,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+185,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+185,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+186,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+186,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+186,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+187,1,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+187,2,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+187,3,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+188,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+188,2,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+188,3,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+189,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+189,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+189,3,how are you?,"Sure, I can help you cancel your order.","I'm just a bot, but I’m here to help you!",-1,True
+190,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+190,2,do you love me?,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+190,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+191,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+191,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+191,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+192,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+192,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+192,3,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+193,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+193,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+193,3,what's 2+2,You're welcome! Have a great day!,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+194,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+194,2,thank you,"I'm just a bot, but I’m here to help you!",You're welcome! Have a great day!,-1,False
+194,3,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,True
+195,1,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+195,2,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+195,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+196,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+196,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+196,3,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+197,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+197,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+197,3,do you love me?,"Yes, we offer a 30-day refund policy for eligible returns.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+198,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+199,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+199,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+199,3,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+200,1,hi darling,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+200,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+200,3,how to cancel order,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sure, I can help you cancel your order.",-1,True
+201,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+201,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+201,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+202,1,forgot my password,Hello! How can I help you today?,You can reset your password using the link we sent to your email.,-1,False
+202,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+202,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+203,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+203,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+203,3,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+204,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+204,2,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+204,3,do you love me?,You're welcome! Have a great day!,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+205,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+206,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+206,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+206,3,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+207,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+207,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+207,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+208,1,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+208,2,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+208,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+209,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+209,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+209,3,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+210,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+210,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+210,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+211,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+212,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+212,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+212,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+213,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+213,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+213,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+214,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+214,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+214,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+215,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+215,2,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+215,3,play music,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+216,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+216,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+216,3,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+217,1,do you love me?,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+217,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+217,3,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+218,1,thank you,"Sorry, I didn’t quite get that. Could you please rephrase?",You're welcome! Have a great day!,-1,False
+218,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+218,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+219,1,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+219,2,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+219,3,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+220,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+220,2,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+220,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+221,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+221,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+221,3,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+222,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+222,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+222,3,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+223,1,hi darling,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+223,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+223,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+224,1,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+224,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+224,3,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+225,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+225,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+225,3,do you love me?,Hello! How can I help you today?,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+226,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+226,2,hi darling,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,False
+226,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+227,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+227,2,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+227,3,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,True
+228,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+228,2,what's up?,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+228,3,do you love me?,Hello! How can I help you today?,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+229,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+229,2,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+229,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+230,1,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+230,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+230,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+231,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+231,2,what's 2+2,"Yes, we offer a 30-day refund policy for eligible returns.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+231,3,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+232,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+232,2,hi darling,"Our business hours are 9 AM to 5 PM, Monday to Friday.","I'm just a bot, but I’m here to help you!",-1,False
+232,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+233,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+233,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+233,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+234,1,what's 2+2,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+234,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+234,3,what's 2+2,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+235,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+236,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+236,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+236,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+237,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+237,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+237,3,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+238,1,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+238,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+238,3,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+239,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+239,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+239,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+240,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+240,2,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+240,3,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+241,1,do you love me?,You're welcome! Have a great day!,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+241,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+241,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+242,1,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+242,2,hey,"Sorry, I didn’t quite get that. Could you please rephrase?",Hello! How can I help you today?,-1,False
+242,3,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+243,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+243,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+243,3,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+244,1,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+244,2,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+244,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+245,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+245,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+245,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+246,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+246,2,what's 2+2,You're welcome! Have a great day!,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+246,3,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+247,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+247,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+247,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+248,1,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+248,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+248,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+249,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+249,2,what's 2+2,You can reset your password using the link we sent to your email.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+249,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+250,1,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+250,2,what's your refund policy?,Hello! How can I help you today?,"Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+250,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+251,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+252,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+252,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+252,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+253,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+253,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+254,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+254,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+254,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+255,1,do you love me?,Hello! How can I help you today?,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+255,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+255,3,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+256,1,hi darling,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+256,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+257,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+258,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+259,1,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+259,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+259,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+260,1,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+260,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+260,3,do you love me?,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+261,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+261,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+261,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+262,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+262,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+262,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+263,1,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+263,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+263,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+264,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+264,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+264,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+265,1,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+265,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+265,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+266,1,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+266,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+266,3,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+267,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+267,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+267,3,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+268,1,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+268,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+268,3,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+269,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+269,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+269,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+270,1,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+270,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+270,3,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+271,1,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+271,2,where is my order?,"Sure, I can help you cancel your order.",I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+271,3,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+272,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+272,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+272,3,hi darling,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,True
+273,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+273,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+273,3,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+274,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+274,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+274,3,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+275,1,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+275,2,do you love me?,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+275,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+276,1,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+276,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+276,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+277,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+277,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+278,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+278,2,do you love me?,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+278,3,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+279,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+279,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+279,3,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+280,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+280,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+280,3,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+281,1,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+281,2,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+281,3,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+282,1,business hours?,Hello! How can I help you today?,"Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+282,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+282,3,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+283,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+283,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+283,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+284,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+284,2,hi darling,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,False
+284,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+285,1,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+285,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+285,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+286,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+286,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+286,3,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+287,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+287,2,do you love me?,I'm sorry to hear that. Let me check the tracking info for you.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+287,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+288,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+288,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+288,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+289,1,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+289,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+289,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+290,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+290,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+290,3,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+291,1,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+291,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+291,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+292,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+292,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+292,3,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+293,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+294,1,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+294,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+294,3,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+295,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+295,2,do you love me?,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+295,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+296,1,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+296,2,how to reset password?,"Yes, we offer a 30-day refund policy for eligible returns.",You can reset your password using the link we sent to your email.,-1,False
+296,3,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+297,1,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+297,2,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+297,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+298,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+298,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+298,3,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+299,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+299,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+299,3,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+300,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+301,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+301,2,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+301,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+302,1,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+302,2,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+302,3,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+303,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+303,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+303,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+304,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+304,2,thanks,"I'm just a bot, but I’m here to help you!",You're welcome! Have a great day!,-1,True
+305,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+305,2,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+305,3,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+306,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+306,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+306,3,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+307,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+307,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+307,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+308,1,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+308,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+308,3,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+309,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+309,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+309,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+310,1,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+310,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+310,3,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+311,1,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+311,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+311,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+312,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+312,2,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+312,3,how to reset password?,"Sure, I can help you cancel your order.",You can reset your password using the link we sent to your email.,-1,True
+313,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+313,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+314,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+314,2,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+314,3,forgot my password,Hello! How can I help you today?,You can reset your password using the link we sent to your email.,-1,True
+315,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+315,2,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+315,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+316,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+316,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+316,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+317,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+317,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+317,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+318,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+318,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+318,3,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+319,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+319,2,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+319,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+320,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+320,2,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+320,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+321,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+321,2,do you love me?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+321,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+322,1,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+322,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+322,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+323,1,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+323,2,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+323,3,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+324,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+324,2,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+324,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+325,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+325,2,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+325,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+326,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+326,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+326,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+327,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+327,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+327,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+328,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+328,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+328,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+329,1,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+329,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+329,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+330,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+330,2,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+330,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+331,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+331,2,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+331,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+332,1,hi darling,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+332,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+332,3,return an item,I'm sorry to hear that. Let me check the tracking info for you.,"Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+333,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+333,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+333,3,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+334,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+334,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+334,3,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+335,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+335,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+335,3,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+336,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+336,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+336,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+337,1,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+337,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+337,3,do you love me?,"I'm just a bot, but I’m here to help you!","Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+338,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+338,2,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+338,3,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+339,1,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+339,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+339,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+340,1,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+340,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+340,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+341,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+341,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+341,3,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+342,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+342,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+342,3,return an item,"Sure, I can help you cancel your order.","Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+343,1,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+343,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+343,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+344,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+344,2,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+344,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+345,1,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+345,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+345,3,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+346,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+346,2,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+346,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+347,1,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+347,2,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+347,3,return an item,"Sure, I can help you cancel your order.","Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+348,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+348,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+348,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+349,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+349,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+349,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+350,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+350,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+350,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+351,1,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+351,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+351,3,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+352,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+352,2,when are you open?,I'm sorry to hear that. Let me check the tracking info for you.,"Our business hours are 9 AM to 5 PM, Monday to Friday.",-1,False
+352,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+353,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+353,2,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+353,3,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+354,1,do you love me?,You're welcome! Have a great day!,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+354,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+354,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+355,1,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+355,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+355,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+356,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+356,2,hey,"Yes, we offer a 30-day refund policy for eligible returns.",Hello! How can I help you today?,-1,False
+356,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+357,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+357,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+357,3,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+358,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+359,1,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+359,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+359,3,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+360,1,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+360,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+360,3,do you love me?,You can reset your password using the link we sent to your email.,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,True
+361,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+362,1,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+362,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+362,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+363,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+363,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+363,3,return an item,Hello! How can I help you today?,"Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+364,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+364,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+364,3,how are you?,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,True
+365,1,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+365,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+365,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+366,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+367,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+367,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+367,3,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+368,1,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+368,2,hi darling,"Sorry, I didn’t quite get that. Could you please rephrase?","I'm just a bot, but I’m here to help you!",-1,False
+368,3,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+369,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+369,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+369,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+370,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+370,2,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+370,3,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+371,1,do you love me?,You're welcome! Have a great day!,"Sorry, I didn’t quite get that. Could you please rephrase?",-1,False
+371,2,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+371,3,how are you?,You're welcome! Have a great day!,"I'm just a bot, but I’m here to help you!",-1,True
+372,1,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+372,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+372,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+373,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+373,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+373,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+374,1,hi darling,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+374,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+374,3,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+375,1,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+375,2,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+375,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+376,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+376,2,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+376,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+377,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+377,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+377,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+378,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+378,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+378,3,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+379,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+379,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+379,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+380,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+380,2,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+380,3,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+381,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+381,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+381,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+382,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+382,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+383,1,hi darling,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+383,2,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+383,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+384,1,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+384,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+385,1,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+385,2,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+385,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+386,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+386,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+386,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+387,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+387,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+387,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+388,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+388,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+389,1,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+389,2,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+389,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+390,1,hi darling,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+390,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+390,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+391,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+391,2,hi darling,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,False
+391,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+392,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+392,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+392,3,how are you?,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,True
+393,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+393,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+393,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+394,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+394,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+394,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+395,1,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+395,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+395,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+396,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+396,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+396,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+397,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+397,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+397,3,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+398,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+398,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+398,3,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+399,1,hi darling,Hello! How can I help you today?,"I'm just a bot, but I’m here to help you!",-1,False
+399,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+400,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+400,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+400,3,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+401,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+401,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+401,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+402,1,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+402,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+402,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+403,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+403,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+403,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+404,1,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+404,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+404,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+405,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+405,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+405,3,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+406,1,hi darling,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+406,2,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+406,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+407,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+407,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+407,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+408,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+408,2,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+408,3,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+409,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+409,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+409,3,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+410,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+410,2,order is delayed,"Yes, we offer a 30-day refund policy for eligible returns.",I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+410,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+411,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+411,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+411,3,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+412,1,hi darling,I'm sorry to hear that. Let me check the tracking info for you.,"I'm just a bot, but I’m here to help you!",-1,False
+412,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+412,3,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+413,1,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+413,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+413,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+414,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+414,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+414,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+415,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+415,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+415,3,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+416,1,can I get a refund?,You can reset your password using the link we sent to your email.,"Yes, we offer a 30-day refund policy for eligible returns.",-1,False
+416,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+416,3,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+417,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+417,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+417,3,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+418,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+418,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+418,3,cancel my order,"Yes, we offer a 30-day refund policy for eligible returns.","Sure, I can help you cancel your order.",-1,True
+419,1,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+419,2,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+419,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+420,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+420,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+420,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+421,1,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+421,2,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+421,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+422,1,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+422,2,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+422,3,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+423,1,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+423,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+423,3,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+424,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+424,2,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+424,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+425,1,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+425,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+425,3,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+426,1,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+426,2,where is my order?,"Our business hours are 9 AM to 5 PM, Monday to Friday.",I'm sorry to hear that. Let me check the tracking info for you.,-1,False
+426,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+427,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+427,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+427,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+428,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+428,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+428,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+429,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+429,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+429,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+430,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+430,2,hi darling,"Yes, we offer a 30-day refund policy for eligible returns.","I'm just a bot, but I’m here to help you!",-1,False
+430,3,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+431,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+431,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+431,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+432,1,hi,"Our business hours are 9 AM to 5 PM, Monday to Friday.",Hello! How can I help you today?,-1,False
+432,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+432,3,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+433,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+433,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+433,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+434,1,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+434,2,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+434,3,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+435,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+436,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+436,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+436,3,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+437,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+437,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+437,3,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+438,1,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+438,2,hi darling,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+438,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+439,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+440,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+440,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+440,3,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+441,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+441,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+441,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+442,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+442,2,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+442,3,how to reset password?,You're welcome! Have a great day!,You can reset your password using the link we sent to your email.,-1,True
+443,1,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+443,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+443,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+444,1,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+444,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+444,3,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+445,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+445,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+445,3,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+446,1,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+446,2,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+446,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+447,1,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+447,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+447,3,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+448,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+448,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+449,1,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+449,2,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+449,3,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+450,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+450,2,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+451,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+451,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+451,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+452,1,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+452,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+452,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+453,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+453,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+453,3,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+454,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+454,2,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+454,3,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+455,1,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+455,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+455,3,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+456,1,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+456,2,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+456,3,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+457,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+457,2,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+457,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+458,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+458,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+458,3,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+459,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+459,2,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+459,3,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,True
+460,1,hi darling,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+460,2,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+460,3,when are you open?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,True
+461,1,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+461,2,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+461,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+462,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+462,2,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+462,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+463,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+463,2,thanks,"Yes, we offer a 30-day refund policy for eligible returns.",You're welcome! Have a great day!,-1,True
+464,1,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+464,2,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+464,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+465,1,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+465,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+465,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+466,1,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+466,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+466,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+467,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+467,2,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+467,3,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+468,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+469,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+469,2,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+469,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+470,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+470,2,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+470,3,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+471,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+471,2,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+471,3,return an item,I'm sorry to hear that. Let me check the tracking info for you.,"Yes, we offer a 30-day refund policy for eligible returns.",-1,True
+472,1,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+472,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+472,3,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+473,1,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+473,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+473,3,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+474,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+474,2,forgot my password,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+474,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+475,1,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+475,2,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+475,3,see you,"Sorry, I didn’t quite get that. Could you please rephrase?",You're welcome! Have a great day!,-1,True
+476,1,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+476,2,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+476,3,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+477,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+477,2,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+477,3,sup bot,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+478,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+478,2,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+478,3,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+479,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+479,2,hi darling,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+479,3,good morning,"I'm just a bot, but I’m here to help you!",Hello! How can I help you today?,-1,True
+480,1,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+480,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+480,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+481,1,play music,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+481,2,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+481,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+482,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+482,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+482,3,see you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+483,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+483,2,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+483,3,how to cancel order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,True
+484,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+484,2,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+484,3,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+485,1,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+485,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+485,3,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+486,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+486,2,stop my purchase,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+486,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+487,1,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+487,2,hi darling,"Sorry, I didn’t quite get that. Could you please rephrase?","I'm just a bot, but I’m here to help you!",-1,False
+487,3,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+488,1,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+488,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+488,3,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,True
+489,1,what's 2+2,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+489,2,order not arrived,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+489,3,bye,"Sure, I can help you cancel your order.",You're welcome! Have a great day!,-1,True
+490,1,what's up?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+490,2,how to reset password?,You can reset your password using the link we sent to your email.,You can reset your password using the link we sent to your email.,1,False
+490,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+491,1,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+491,2,thank you,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+491,3,hi,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+492,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+492,2,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+492,3,hey,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+493,1,return an item,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+493,2,hello,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+493,3,thanks,Hello! How can I help you today?,You're welcome! Have a great day!,-1,True
+494,1,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,False
+494,2,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+494,3,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
+495,1,what's your refund policy?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+495,2,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+495,3,do you love me?,"Sorry, I didn’t quite get that. Could you please rephrase?","Sorry, I didn’t quite get that. Could you please rephrase?",1,True
+496,1,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,False
+496,2,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+496,3,how are you?,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+497,1,bye,You're welcome! Have a great day!,You're welcome! Have a great day!,1,False
+497,2,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,False
+497,3,yo!,"I'm just a bot, but I’m here to help you!","I'm just a bot, but I’m here to help you!",1,True
+498,1,can I get a refund?,"Yes, we offer a 30-day refund policy for eligible returns.","Yes, we offer a 30-day refund policy for eligible returns.",1,False
+498,2,order is delayed,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,False
+498,3,where is my order?,I'm sorry to hear that. Let me check the tracking info for you.,I'm sorry to hear that. Let me check the tracking info for you.,1,True
+499,1,business hours?,"Our business hours are 9 AM to 5 PM, Monday to Friday.","Our business hours are 9 AM to 5 PM, Monday to Friday.",1,False
+499,2,cancel my order,"Sure, I can help you cancel your order.","Sure, I can help you cancel your order.",1,False
+499,3,good morning,Hello! How can I help you today?,Hello! How can I help you today?,1,True
+500,1,thanks,You're welcome! Have a great day!,You're welcome! Have a great day!,1,True
