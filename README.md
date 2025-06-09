@@ -76,16 +76,13 @@ A Reinforcement Learning-based chatbot built using Deep Q-Network (DQN), capable
 
 ## 📂 Demo & Output Samples
 
-### 📸 Screenshots – RL Chatbot UI
-![Screenshot 1](media/screenshot1.png)  
-![Screenshot 2](media/screenshot2.png)
-
-### 📄 Chat Export Files
-- [Chat Log (CSV)](chat_export.csv)
-- [Reward Log / PDF Report (Optional)](media/reward_report.pdf)
+### 📄 Chat Export & Reward Files
+- [Chat Log](chat_export.csv)
+- [Reward Log](logs/multiturn_log.csv)
+- [Reward Graph](logs/multiturn_rewards.png)
 
 ### 🎥 Model Output or Voice Demo
-[▶️ Play Demo Output](media/demo_output.mp4)
+[▶️ Play Demo Output](media/RL Chatbot - Google Chrome 2025-04-12 20-17-05.mp4)
 
 ---
 
